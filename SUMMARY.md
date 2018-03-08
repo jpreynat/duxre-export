@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Read Me](README.md)
+* [Read Me - Secondary](README.md)
 * [Introduction](introduction/README.md)
   * [Motivation](introduction/motivation.md)
   * [Core Concepts](introduction/core-concepts.md)
