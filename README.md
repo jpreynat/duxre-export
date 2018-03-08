@@ -1,4 +1,4 @@
-# Read Me - Secondary Edited
+# Read Me - Secondary Edited twice
 
 Redux is a predictable state container for JavaScript apps.  
 \(Not to be confused with a WordPress framework – [Redux Framework](https://reduxframework.com/).\)
